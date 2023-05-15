@@ -55,9 +55,10 @@ Kakao API, 문화재청 API
   
 
 # Docs
+- <a href="https://drive.google.com/file/d/1SdTOGAc5eD37tuajiosX6-Ve3vhlThqm/view?usp=share_link">포트폴리오</a>
 - <a href="https://user-images.githubusercontent.com/110010716/221781853-31f0b14e-098e-4aa7-a3a5-07dcd33af443.png">아키텍쳐</a>
 - <a href="https://user-images.githubusercontent.com/110010716/221782464-b26250aa-c060-4891-bf9b-a7e3a72ff75f.png">UI 흐름도</a>
-- <a href="https://github.com/Jungsuah/SEMI_PROJECT_/commit/87cb735b2fd1da0583f5f9cf440c47543204a569">ERD</a>
+- <a href="https://github.com/miyyaa24/KH-semi-project/assets/94007890/c384288d-08f7-4fe2-b0f2-592df606f667">ERD</a>
 
 <br />
 <br />
